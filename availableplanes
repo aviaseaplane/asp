@@ -2,28 +2,13 @@
     {
         "id": 1,
         "title": "Cessna Grand Caravan Ex",
-        "description": "Location - Manila
-        Model - Cessna Grand Caravan Ex Amphibious
-        Year of construction - 2017
-        Flight speed - 159 knots
-        Passengers - 8
-        Description
-        The Philippines consists of more than 7,000 islands, and they are now closer than ever. We offer our passengers safety, comfort and exclusivity for an adventure that you will never forget. Save yourself all the hassle at the airport and fly to your favorite city.
-        Islands!
-
-        We offer seaplane flights to Boracay, Coron and Puerto Galera, as well as to any destination in the Philippines. This document is not contractual",
+        "description": "Location - Manila. Model - Cessna Grand Caravan Ex Amphibious.Year of construction - 2017. Flight speed - 159 knots. Passengers - 8. Description - The Philippines consists of more than 7,000 islands, and they are now closer than ever. We offer our passengers safety, comfort and exclusivity for an adventure that you will never forget. Save yourself all the hassle at the airport and fly to your favorite city.Islands! We offer seaplane flights to Boracay, Coron and Puerto Galera, as well as to any destination in the Philippines. This document is not contractual",
         "imageURL": "https://i.ibb.co/26XkvXK/Cessna-Grand-Caravan-Ex.png"
     },
     {
         "id": 2,
         "title": "P92 SeaSky Hydroplane",
-        "description": "Location - Philippines
-        Model - P92 SeaSky Hydroplane
-        Year of construction - 2019
-        Flight speed - 169 knots
-        Passengers - 2
-        Description
-        The Philippines consists of more than 7,000 islands, and they are now closer than ever. We offer our passengers safety, comfort and exclusivity for an adventure that you will never forget. Available on any island in the Philippines, hourly rental is possible, this text is not a contract",
+        "description": "Location - Philippines. Model - P92 SeaSky Hydroplane. Year of construction - 2019. Flight speed - 169 knots. Passengers - 2. Description - The Philippines consists of more than 7,000 islands, and they are now closer than ever. We offer our passengers safety, comfort and exclusivity for an adventure that you will never forget. Available on any island in the Philippines, hourly rental is possible, this text is not a contract",
         "imageURL": "https://i.ibb.co/z4kWzT8/p92-sesky.jpg"
     }
 ]
