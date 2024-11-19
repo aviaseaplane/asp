@@ -1,0 +1,17 @@
+[
+    {
+        "id": "1a2b3c4d-5e6f-7g8h-9i0j-k1l2m3n4o5p6",
+        "description": "A beautiful sunset and clouds, it was one of the best day of my life",
+        "imageURL": "https://i.ibb.co/GPCSkMR/susnes.jpg"
+    },
+    {
+        "id": "2b3c4d5e-6f7g8h9i-0j1k2l3m4n5o6p7q",
+        "description": "A serene beach with crystal clear water. Great flight, thank u",
+        "imageURL": "https://i.ibb.co/gZckSp9/Aerial-rendering-The-St-Regis-Maldives-Vommuli-Resort.jpg"
+    },
+    {
+        "id": "3c4d5e6f-7g8h9i0j-1k2l3m4n5o6p7q8r",
+        "description": "It was nice to get from one island to another, and we were lucky with the weather",
+        "imageURL": "https://i.ibb.co/THgNGHT/1662194423-1-priroda-club-p-maldivi-s-samoleta-krasivo-foto-1.jpg"
+    }
+]
